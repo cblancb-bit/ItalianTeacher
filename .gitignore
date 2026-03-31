@@ -1,0 +1,14 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+
+# Claude Code
+.claude/
+
+# Environment variables
+.env.local
+.env*.local
+
+# Node
+node_modules/
